@@ -33,23 +33,24 @@ bookit-frontend/
 
 ## 🧑‍💻 Setup & Local Development
 
-## 1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/nithinkumarr123/Bookit.git
 cd bookit
+```
 
-##2️⃣ Install dependencies
+###2️⃣ Install dependencies
 ```bash
 npm install
 ```
 ###3️⃣ Run the development server
-'''bash
+```bash
 npm run dev
-'''
+```
 ###4️⃣ Build for production
-'''bash
+```bash
 npm run build
-'''
+```
 
 ###🪙 Promo Codes for Testing
 The following promo codes can be applied during booking to verify discount logic:
