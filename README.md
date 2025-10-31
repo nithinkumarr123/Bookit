@@ -13,7 +13,7 @@ A modern, responsive web application for booking adventure experiences and outdo
 
 ## 📦 Folder Structure
 
-
+###
 bookit-frontend/
 │
 ├── public/                # Static assets (images, icons)
