@@ -60,6 +60,5 @@ npm run build
 
 ### 🌐 Deployment
 ### This project is hosted on Vercel with automatic deployments from the main branch.
-
 https://bookit-five-sigma.vercel.app/
 
