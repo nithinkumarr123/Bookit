@@ -63,3 +63,19 @@ npm run build
 https://bookit-five-sigma.vercel.app/
 
 ### 📸 Screenshots
+
+<div align="center">
+
+### Homepage
+![Homepage](./public/screenshots/homepage.png)
+
+### Experience Details  
+![Details](./public/screenshots/details.png)
+
+### Booking Page
+![Booking](./public/screenshots/booking.png)
+
+### Confirmation Page
+![Confirmation](./public/screenshots/confirmation.png)
+
+</div>
