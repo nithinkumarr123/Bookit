@@ -39,24 +39,26 @@ git clone https://github.com/nithinkumarr123/Bookit.git
 cd bookit
 ```
 
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 ```bash
 npm install
 ```
-###3️⃣ Run the development server
+### 3️⃣ Run the development server
 ```bash
 npm run dev
 ```
-###4️⃣ Build for production
+### 4️⃣ Build for production
 ```bash
 npm run build
 ```
 
-###🪙 Promo Codes for Testing
-The following promo codes can be applied during booking to verify discount logic:
-- 
-SAVE10
-FLAT100
+### 🪙 Promo Codes for Testing
+## The following promo codes can be applied during booking to verify discount logic:
 
-###🌐 Deployment
-This project is hosted on Vercel with automatic deployments from the main branch.
+-**SAVE10**
+-**FLAT100**
+
+### 🌐 Deployment
+### This project is hosted on Vercel with automatic deployments from the main branch.
+```bash
+```
