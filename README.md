@@ -33,12 +33,12 @@ bookit-frontend/
 
 ## 🧑‍💻 Setup & Local Development
 
-### 1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/nithinkumarr123/Bookit.git
 cd bookit
 
-###2️⃣ Install dependencies
+##2️⃣ Install dependencies
 ```bash
 npm install
 ```
