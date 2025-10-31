@@ -79,3 +79,14 @@ https://bookit-five-sigma.vercel.app/
 ![Confirmation](./public/screenshots/confirmation.png)
 
 </div>
+
+### 💬Acknowledgements
+
+We would like to express our gratitude to the following technologies and platforms that made this project possible:
+
+- **[Firebase](https://firebase.google.com/)** - Backend and real-time database
+- **[Vercel](https://vercel.com/)** - Deployment and hosting platform
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
+- **[shadcn/ui](https://ui.shadcn.com/)** - Beautifully designed components
+- **[Lucide React](https://lucide.dev/)** - Beautiful & consistent icons
+- **[React Router DOM](https://reactrouter.com/)** - Client-side routing
