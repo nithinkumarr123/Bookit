@@ -53,7 +53,7 @@ npm run build
 ```
 
 ### 🪙 Promo Codes for Testing
-## The following promo codes can be applied during booking to verify discount logic:
+# The following promo codes can be applied during booking to verify discount logic:
 
 -**SAVE10**
 -**FLAT100**
