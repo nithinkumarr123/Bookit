@@ -12,21 +12,24 @@ A modern, responsive web application for booking adventure experiences and outdo
 - **Deployed on Vercel** — Seamless CI/CD from GitHub
 
 ## 📦 Folder Structure
+
+
 bookit-frontend/
 │
-├── public/ # Static assets (images, icons)
+├── public/                # Static assets (images, icons)
 ├── src/
-│ ├── assets/ # Image assets
-│ ├── components/ # Reusable UI components
-│ ├── lib/ # Utility functions and configurations
-│ ├── pages/ # Main app pages (Home, Details, Checkout, Result)
-│ ├── App.tsx
-│ └── main.tsx
+│   ├── assets/            # Image assets
+│   ├── components/        # Reusable UI components
+│   ├── lib/               # Firebase config
+│   ├── pages/             # Main app pages (Home, Details)
+│   ├── App.tsx
+│   └── main.tsx
 │
 ├── package.json
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
+
 
 ## 🧑‍💻 Setup & Local Development
 
