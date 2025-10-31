@@ -29,7 +29,7 @@ bookit-frontend/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-
+```
 
 ## 🧑‍💻 Setup & Local Development
 
@@ -37,20 +37,25 @@ bookit-frontend/
 ```bash
 git clone https://github.com/nithinkumarr123/Bookit.git
 cd bookit
-2️⃣ Install dependencies
-bash
-npm install
-3️⃣ Run the development server
-bash
-npm run dev
-4️⃣ Build for production
-bash
-npm run build
-🪙 Promo Codes for Testing
-The following promo codes can be applied during booking to verify discount logic:
 
-Promo Code	Type	Value	Description
-SAVE10	Percent	10%	Get 10% off total booking
-FLAT100	Flat	₹100	Save ₹100 on any experience
-🌐 Deployment
+###2️⃣ Install dependencies
+```bash
+npm install
+```
+###3️⃣ Run the development server
+'''bash
+npm run dev
+'''
+###4️⃣ Build for production
+'''bash
+npm run build
+'''
+
+###🪙 Promo Codes for Testing
+The following promo codes can be applied during booking to verify discount logic:
+- 
+SAVE10
+FLAT100
+
+###🌐 Deployment
 This project is hosted on Vercel with automatic deployments from the main branch.
