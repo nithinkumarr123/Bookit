@@ -1,7 +1,8 @@
-🌍 Bookit – Adventure Experience Booking Platform
+#🌍 Bookit – Adventure Experience Booking Platform
 
 A modern, responsive web application for booking adventure experiences and outdoor activities. Built with React, TypeScript, and Tailwind CSS.
-🚀 Features
+
+#🚀 Features
 ✅ Dynamic Experiences — List of curated adventure activities with live availability
 ✅ Real-time Firestore Sync — Slot capacities and experience details update instantly
 ✅ Search & Filtering — Easily find experiences by name or location
@@ -9,7 +10,7 @@ A modern, responsive web application for booking adventure experiences and outdo
 ✅ Promotional Codes — Apply flat or percentage discounts
 ✅ Deployed on Vercel — Seamless CI/CD from GitHub
 
-📦 Folder Structure
+#📦 Folder Structure
 
 bookit-frontend/
 │
@@ -26,20 +27,21 @@ bookit-frontend/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-🧑‍💻 Setup & Local Development
-1️⃣ Clone the repository
+
+#🧑‍💻 Setup & Local Development
+#1️⃣ Clone the repository
 https://github.com/nithinkumarr123/Bookit.git
 cd bookit
-2️⃣ Install dependencies
+#2️⃣ Install dependencies
 npm install
-3️⃣ Run the development server
+#3️⃣ Run the development server
 npm run dev
-4️⃣ Build for production
+#4️⃣ Build for production
 npm run build
-🪙 Promo Codes for Testing
+#🪙 Promo Codes for Testing
 The following promo codes can be applied during booking to verify discount logic:
 Promo Code	Type	Value	Description
-|SAVE10	|Percent	|10%	|Get 10% off total booking|
-|FLAT100	|Flat	|₹100	|Save ₹100 on any experience|
-🌐 Deployment
+[SAVE10](#SAVE10)[Percent](#Percent)[10%](#10%)	[Get 10% off total booking](#Get 10% off total booking]
+[FLAT100](#FLAT100)[Flat](#Flat)	[₹100](#₹100)	[Save ₹100 on any experience](#Save ₹100 on any experience)
+#🌐 Deployment
 This project is hosted on Vercel with automatic deployments from the main branch.
